@@ -16,6 +16,7 @@ City of Norfolk, Virginia GIS department has provided building footprints and ad
 
 Imports will be done through the dedicated user account [jonahadkins_norfolk_import](https://www.openstreetmap.org/user/jonahadkins_norfolk_imports) and will be done through OSM Import Guidelines - [See Wiki](https://wiki.openstreetmap.org/wiki/City_of_Norfolk)  
 
+![](https://raw.githubusercontent.com/jonahadkins/norfolk-OSM-imports/master/post-orf.png)
 
 Imported building swill have the following `building=` tags populated:  
 
